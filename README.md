@@ -1,1 +1,1 @@
-# go2rtc
+# go2rtc distroless & rootless
